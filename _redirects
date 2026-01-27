@@ -1,0 +1,5 @@
+# Redirect non-www to www
+https://drsrisushmadentalclinic.com/* https://www.drsrisushmadentalclinic.com/:splat 301
+
+# Redirect HTTP to HTTPS
+http://* https://:splat 301
