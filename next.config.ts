@@ -6,8 +6,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  eslint: {
-    ignoreDuringBuilds: true,
+  eslint: false,
   },
   typescript: {
     ignoreBuildErrors: true,
