@@ -1,5 +1,0 @@
-# This workflow has been replaced by deploy.yml
-# Kept here to prevent errors, but trigger is disabled
-name: Disabled - Use deploy.yml instead
-on:
-  workflow_dispatch:  # Only manual trigger, no auto-trigger
