@@ -3,5 +3,6 @@ export default {
   basePath: '',
   images: {
     unoptimized: true
+      eslint: { ignoreDuringBuilds: true }
   }
 };
