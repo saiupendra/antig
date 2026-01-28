@@ -7,7 +7,7 @@ export default {
   eslint: {
     ignoreDuringBuilds: true
   }
-    typescript: {
+      typescript: {
     ignoreBuildErrors: true
   },
-};
+
